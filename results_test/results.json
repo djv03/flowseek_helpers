@@ -1,0 +1,112 @@
+[
+  {
+    "epe_overall": 0.4868199825286865,
+    "epe_low_texture": 0.4156208336353302,
+    "epe_high_texture": 0.5101332664489746,
+    "outlier_pct_overall": 4.485692015481652,
+    "outlier_pct_low_texture": 3.6375523250006805,
+    "low_texture_pixel_ratio": 0.24666938431766056,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 1
+  },
+  {
+    "epe_overall": 0.5814093351364136,
+    "epe_low_texture": 0.4276899993419647,
+    "epe_high_texture": 0.6316913366317749,
+    "outlier_pct_overall": 5.683100989105505,
+    "outlier_pct_low_texture": 3.886627167314892,
+    "low_texture_pixel_ratio": 0.2464789994266055,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 2
+  },
+  {
+    "epe_overall": 0.709505021572113,
+    "epe_low_texture": 0.4044128656387329,
+    "epe_high_texture": 0.809554398059845,
+    "outlier_pct_overall": 6.129945527522936,
+    "outlier_pct_low_texture": 2.46703067462405,
+    "low_texture_pixel_ratio": 0.24694936209862386,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 3
+  },
+  {
+    "epe_overall": 0.8484020829200745,
+    "epe_low_texture": 0.4315827190876007,
+    "epe_high_texture": 0.9844657778739929,
+    "outlier_pct_overall": 7.013555404243118,
+    "outlier_pct_low_texture": 3.50401368840672,
+    "low_texture_pixel_ratio": 0.2460982296444954,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 4
+  },
+  {
+    "epe_overall": 0.9542060494422913,
+    "epe_low_texture": 0.6065942645072937,
+    "epe_high_texture": 1.0676984786987305,
+    "outlier_pct_overall": 8.107260607798166,
+    "outlier_pct_low_texture": 4.57552621281475,
+    "low_texture_pixel_ratio": 0.246131826978211,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 5
+  },
+  {
+    "epe_overall": 1.091475486755371,
+    "epe_low_texture": 0.6431636810302734,
+    "epe_high_texture": 1.2380930185317993,
+    "outlier_pct_overall": 8.850881594036696,
+    "outlier_pct_low_texture": 4.858719064973779,
+    "low_texture_pixel_ratio": 0.2464454020928899,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 6
+  },
+  {
+    "epe_overall": 1.2805684804916382,
+    "epe_low_texture": 0.7296762466430664,
+    "epe_high_texture": 1.4609237909317017,
+    "outlier_pct_overall": 9.967432984518348,
+    "outlier_pct_low_texture": 5.8202259435504375,
+    "low_texture_pixel_ratio": 0.24664026662844038,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 7
+  },
+  {
+    "epe_overall": 1.1151819229125977,
+    "epe_low_texture": 0.6474598050117493,
+    "epe_high_texture": 1.268446922302246,
+    "outlier_pct_overall": 8.659376791857799,
+    "outlier_pct_low_texture": 6.1166519951720195,
+    "low_texture_pixel_ratio": 0.24680825329701836,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 8
+  },
+  {
+    "epe_overall": 0.9739371538162231,
+    "epe_low_texture": 0.7331302762031555,
+    "epe_high_texture": 1.0525774955749512,
+    "outlier_pct_overall": 8.270543649655963,
+    "outlier_pct_low_texture": 6.1914856836109875,
+    "low_texture_pixel_ratio": 0.24617662342316513,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 9
+  },
+  {
+    "epe_overall": 1.0747902393341064,
+    "epe_low_texture": 0.9164819121360779,
+    "epe_high_texture": 1.126564383506775,
+    "outlier_pct_overall": 9.292350559059633,
+    "outlier_pct_low_texture": 8.005089521039716,
+    "low_texture_pixel_ratio": 0.24644764191513763,
+    "method": "Lucas-Kanade",
+    "sequence": "alley_1",
+    "frame": 10
+  }
+]
